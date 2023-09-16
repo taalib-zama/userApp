@@ -1,0 +1,1 @@
+Since we’ll need basic CRUD functionality on the User entities, we must also define a UserRepository interface:
